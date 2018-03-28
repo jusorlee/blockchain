@@ -1,3 +1,3 @@
 # blockchain
 区块链学习笔记
-![Aaron Swartz]("raw.githubusercontent.com/jusorlee/blockchain/master/solidity/image/19P58PICdNA_1024.jpg")
+![Aaron Swartz]("https://raw.githubusercontent.com/jusorlee/blockchain/master/solidity/image/19P58PICdNA_1024.jpg")
