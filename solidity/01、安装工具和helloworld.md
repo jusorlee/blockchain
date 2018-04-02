@@ -48,7 +48,8 @@ Error: No network specified. Cannot determine current network.
 ```
 如果出现上面这个错误，需要配置truffle.js文件,在文件里添加代码：
 ```
-development:{
+networks:{
+    development:{
       host:"localhost",
       port:8545,
       network_id:"*"   //匹配任何network id
